@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mera_Sachse_Daniel_AppMakaco</string>
+    <string name="cambiarPago">CAMBIAR PAGO </string>
+    <string-array name="Pago">
+        <item>Paypal</item>
+        <item>Cuenta débito </item>
+    </string-array>
+</resources>
